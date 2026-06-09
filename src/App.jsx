@@ -100,6 +100,7 @@ function App() {
 
           <input
             type="time"
+            placeholder="Time"
             value={time}
             onChange={(e) => setTime(e.target.value)}
           />

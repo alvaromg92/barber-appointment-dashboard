@@ -59,6 +59,8 @@ body {
 
 .stats-card h2 {
   font-size: 2rem;
+  color: #1e293b;
+  font-weight: 800;
 }
 
 .form-container {
@@ -76,6 +78,12 @@ input {
   border: 1px solid #d1d5db;
   border-radius: 10px;
   font-size: 0.95rem;
+  background: #ffffff;
+  color: #1f2937;
+}
+
+input::placeholder {
+  color: #9ca3af;
 }
 
 button {

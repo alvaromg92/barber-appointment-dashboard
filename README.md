@@ -26,3 +26,7 @@ https://barber-appointment-dashboard.vercel.app/
 
 This project was created as part of my frontend portfolio to practice React state management, form handling, filtering data, and responsive dashboard layouts.
 
+## Screenshot
+
+![Dashboard Preview](./screenshots/dashboard-preview.jpg)
+

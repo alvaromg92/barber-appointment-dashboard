@@ -164,6 +164,13 @@ button:hover {
   font-size: 1rem;
 }
 
+  input[type="time"] {
+    background-color: #ffffff;
+    color: #111111;
+    color-scheme: light;
+
+  }
+
 @media (max-width: 600px) {
   .dashboard-title {
     font-size: 2rem;
